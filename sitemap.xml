@@ -6,7 +6,17 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/FR_20150513/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/FR_01/</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
