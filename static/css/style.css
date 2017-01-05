@@ -85,6 +85,10 @@ a { color: #964949; }
 }
 #titlelink { text-decoration: none; }
 
+#header {
+	
+}
+
 .puajournal_entry {
     font-family: monospace;
     font-size: 18px;
@@ -92,6 +96,8 @@ a { color: #964949; }
     line-height: 1em;
     
 }
+
+.footnotes {}
 
 #footer {
 	color: #999;
