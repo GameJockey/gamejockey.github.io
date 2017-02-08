@@ -7,7 +7,24 @@
  *** Fonts *********************************************************************
  ******************************************************************************/
 @font-face {
-	font-family: "Charis SIL";
+	font-family: 'Charis SIL';
+	src: url('/static/fonts/charissilr-webfont.woff') format('woff');
+}
+@font-face {
+	font-family: 'Charis SIL';
+	src: url('/static/fonts/charissilb-webfont.woff') format('woff');
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'Charis SIL';
+	src: url('/static/fonts/charissili-webfont.woff') format('woff');
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Charis SIL';
+	src: url('/static/fonts/charissilbi-webfont.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
 }
 
 
