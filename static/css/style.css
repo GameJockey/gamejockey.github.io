@@ -67,8 +67,8 @@ a { color: #964949; }
 #maincontent ul li { margin-top: 0; }
 #maincontent ul li:before {
     content:"\25CF";
-/*    padding-right: 30px;
-    margin-left: -40px;*/
+    padding-right: 30px;
+    margin-left: -40px;
 }
 #maincontent code { font-size: 18px; }
 
